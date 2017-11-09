@@ -1,0 +1,14 @@
+# temporary files
+*~
+
+# swap temporary files
+*.swp
+
+# Dolphin file manager files
+.directory
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
